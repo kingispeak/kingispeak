@@ -1,10 +1,16 @@
+### Hi there, I'm Fong. 👋
+
+- 🌱 I’m currently learning everything 🤣
+- 🥅 2022 Goals: Contribute more to Open Source projects and company projects
+- ⚡ Fun fact: Listening music and Basketball
+
+## I'm a Web Developer!!
+
 - 👋 Hi, I’m @kingispeak
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-
 
 ### Connect with me:
 
@@ -56,7 +62,6 @@
       <img align="top" src="https://github-readme-stats.vercel.app/api?username=kingispeak&show_icons=true&line_height=27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" alt="angkosal's GitHub Stats" />
     </a>
 </p>
-
 
 [linkedin]: https://linkedin.com
 
