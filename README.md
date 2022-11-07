@@ -6,6 +6,8 @@
 
 ## I'm a Web Developer!!
 
+I’m a Laravel web developer based in the Taiwan. I specialise in building websites and systems for small businesses to help them grow and increase their sales.
+
 - 👋 Hi, I’m @kingispeak
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
